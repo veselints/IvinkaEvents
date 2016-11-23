@@ -1,0 +1,8 @@
+C:\Users\veso\Desktop\IvinkaSplitEvents\IvinkaSplitEvents\bin\Debug\IvinkaSplitEvents.exe.config
+C:\Users\veso\Desktop\IvinkaSplitEvents\IvinkaSplitEvents\bin\Debug\IvinkaSplitEvents.exe
+C:\Users\veso\Desktop\IvinkaSplitEvents\IvinkaSplitEvents\bin\Debug\IvinkaSplitEvents.pdb
+C:\Users\veso\Desktop\IvinkaSplitEvents\IvinkaSplitEvents\bin\Debug\FileHelpers.dll
+C:\Users\veso\Desktop\IvinkaSplitEvents\IvinkaSplitEvents\bin\Debug\FileHelpers.xml
+C:\Users\veso\Desktop\IvinkaSplitEvents\IvinkaSplitEvents\obj\Debug\IvinkaSplitEvents.csprojResolveAssemblyReference.cache
+C:\Users\veso\Desktop\IvinkaSplitEvents\IvinkaSplitEvents\obj\Debug\IvinkaSplitEvents.exe
+C:\Users\veso\Desktop\IvinkaSplitEvents\IvinkaSplitEvents\obj\Debug\IvinkaSplitEvents.pdb
